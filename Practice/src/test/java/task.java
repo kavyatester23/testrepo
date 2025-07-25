@@ -5,6 +5,12 @@ public class task {
 		// TODO Auto-generated method stub
 
 		System.out.println("kavya");
+		System.out.println("kavya");
+		System.out.println("kavya");
+		System.out.println("kavya");
+		System.out.println("kavya");
+		System.out.println("kavya");
+		System.out.println("kavya");
 	}
 
 }
